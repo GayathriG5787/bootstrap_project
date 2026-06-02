@@ -4,6 +4,13 @@ body::before {
     height: 60px;
 }
 
+#map {
+    height: 20rem;
+    width: 100%;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
 @media (min-width: 768px) {
     .news-input {
         width: 50%;
