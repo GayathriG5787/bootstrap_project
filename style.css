@@ -4,6 +4,12 @@ body::before {
     height: 60px;
 }
 
+.carousel-img {
+    height: 600px;
+    object-fit: cover;
+    object-position: top;
+}
+
 #map {
     height: 20rem;
     width: 100%;
